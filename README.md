@@ -1,6 +1,7 @@
 # the-craft-of-selfteaching
 
 > One has no future if one couldn't teach themself.
+> 这个仓库是我自己仓can
 
 # 自学是门手艺
 
