@@ -1,7 +1,9 @@
 # the-craft-of-selfteaching
 
 > One has no future if one couldn't teach themself.
-> 这个仓库是我自己仓can
+> >我看到有人start了我这个仓库，不要误会了。这个仓库里面大部分内容都是李笑来老师的。我自己  
+>>创建一个仓库，主要是为了自己瞎改。如果真的需要李笑来老师仓库，也很容易找到。
+>>同时感谢李笑来老师。the man who maybe a great teacher
 
 # 自学是门手艺
 
